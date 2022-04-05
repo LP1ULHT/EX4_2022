@@ -2,7 +2,7 @@
 
 *Linguagens de Programação I*
 
-# Exercício 4 - Calculator
+# Exercício 4 - O Enunciado
 
 Este exercício serve os seguintes objectivos:
 - Utilização de operadores
