@@ -48,17 +48,6 @@ Os alunos são encorajados a discutir os problemas com outros alunos mas não de
 
 ## Referências
 
-<a name="ref1"></a>
-
-* (1) Pereira, A. (2017). C e Algoritmos, 2ª edição. Sílabo.
-
-<a name="ref2"></a>
-
-* (2)  PANDORA - Yet Another Automated Assessment Tool, https://saturn.ulusofona.pt/.
-
-<a name="ref3"></a>
-
-* (3)  Saul Schleimer, Daniel S. Wilkerson, and Alex Aiken. 2003. Winnowing: local algorithms for document fingerprinting. In Proceedings of the 2003 ACM SIGMOD international conference on Management of data (SIGMOD '03). Association for Computing Machinery, New York, NY, USA, 76–85. DOI:https://doi.org/10.1145/872757.872770
 
 ## Metadados
 
