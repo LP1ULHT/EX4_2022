@@ -4,22 +4,13 @@
 
 # Exercício 4 - O Enunciado
 
-Este exercício serve os seguintes objectivos:
-- Utilização de operadores
-- Utilização de variáveis
-- Utilização de ciclos
-- Praticar pensamento algoritmico
-
-Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
-- O código apresentado deve ser bem indentado. 
-- O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
-- `-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`
-- Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
-- O trabalho deve ser desenvolvido e submetido em grupos até 3 elementos.
-
 Este exercício deverá ser submetido no Moodle 23:59 do dia 16/4/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
 
+- O trabalho deve ser desenvolvido em grupos até 3 estudantes.
+
 ## Descrição do problema
+
+Este execício consiste na escrita de um enunciado para um problema de programação, criação da solução e de um conjunto de testes de validação.
 
 ### Enunciado
 Escreva um enunciado *original* de um exercício de Linguagens de Programação I. O exercício deverá incluir a utilização dos seguintes elementos:
@@ -35,7 +26,9 @@ O problema deverá ser inventado pelos alunos. Ou seja não deve ser copiado de 
 O enunciado deverá ser o mais interessante e motivador possível, no entanto a sua dificuldade deverá ser ajustada para que seja possível a sua realização em poucas horas (de 3 a 8 horas de trabalho).
 
 ### Código
-Produza o código com a solução do problema do enunciado que foi criado. O código produzido deverá obedecer às regras de compilação definidas tanto neste enunciado, como no enunciado produzido.
+Produza o código com a solução do problema do enunciado que foi criado. O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
+`-g -Wvla -Wall -Wpedantic -Wextra -Wdeclaration-after-statement`
+O código deve estar correctamente indentado e comentado.
 
 ### Testes
 Produza um conjunto de ficheiros de teste para validação do código. Os ficheiros de teste são um conjunto de pares de ficheiros input (extensão `.in`) e output (extensão `.out`). Estes ficheiros são ficheiros de texto que contém:
@@ -43,7 +36,6 @@ Produza um conjunto de ficheiros de teste para validação do código. Os fichei
 - `teste_1.out`: contém os outputs do programa obtidos quando o input do programa é o conteúdo do ficheiro `teste_1.in`
 
 Deverá produzir, no mínimo 10 ficheiros de input e 10 ficheiros de output.
-
 
 ## Honestidade Académica
 
