@@ -4,7 +4,7 @@
 
 # Exercício 4 - O Enunciado
 
-Este exercício deverá ser submetido no Moodle 23:59 do dia 16/4/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
+Este exercício deverá ser submetido no Moodle 23:59 do dia 20/04/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
 
 - O trabalho deve ser desenvolvido em grupos até 3 estudantes.
 
@@ -16,14 +16,22 @@ Este execício consiste na escrita de um enunciado para um problema de programa�
 Escreva um enunciado *original* de um exercício de Linguagens de Programação I. O exercício deverá incluir a utilização dos seguintes elementos:
 * Variáveis
 * Operadores
+* decisores
 * Ciclos
 * Vectores e/ou Strings
+* Leitura e escrita na consola
 
-O enunciado deverá incluir toda a informação que habitualmente está num enunciado: regras, descrição, exemplos, critérios de avaliação, datas, etc.
+O enunciado deverá incluir toda a informação que habitualmente está num enunciado:
+* Enunciado deve ter 
+* regras, 
+* descrição, 
+* exemplos, 
+* critérios de avaliação, 
+* datas, etc.  
 
 O problema deverá ser inventado pelos alunos. Ou seja não deve ser copiado de outras fontes.
 
-O enunciado deverá ser o mais interessante e motivador possível, no entanto a sua dificuldade deverá ser ajustada para que seja possível a sua realização em poucas horas (de 3 a 8 horas de trabalho).
+O enunciado deverá ser o mais interessante e motivador possível, no entanto a sua dificuldade deverá ser ajustada para que seja possível a realização do exercício proposto em poucas horas (de 3 a 8 horas de trabalho).
 
 ### Código
 Produza o código com a solução do problema do enunciado que foi criado. O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
@@ -36,6 +44,19 @@ Produza um conjunto de ficheiros de teste para validação do código. Os fichei
 - `teste_1.out`: contém os outputs do programa obtidos quando o input do programa é o conteúdo do ficheiro `teste_1.in`
 
 Deverá produzir, no mínimo 10 ficheiros de input e 10 ficheiros de output.
+
+## Entrega
+
+O trabalho deverá ser entregue no Moodle num zip contendo:
+* um ficheiro em pdf com o enunciado produzido
+* um ficheiro source code (.c) com o código da solução do enunciado
+* uma pasta com, pelo menos, 10 ficheiros de input e 10 ficheiros de output
+
+Não identifique o seu trabalho. O enunciado não deve conter os nomes/números dos alunos que o realizaram. Assim como o código também não deve conter nenhum tipo de identificação dos autores.
+
+A autoria dos trabalhos é identificada através da submissão no moodle.
+
+
 
 ## Honestidade Académica
 
