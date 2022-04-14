@@ -43,6 +43,8 @@ Produza um conjunto de ficheiros de teste para validação do código. Os fichei
 - `teste_1.in`: contém os inputs dado pelo utilizador do programa
 - `teste_1.out`: contém os outputs do programa obtidos quando o input do programa é o conteúdo do ficheiro `teste_1.in`
 
+Por exemplo, o par de ficheiros [EX_test_10.in](EX_test_10.in) e [EX_test_10.out](EX_test_10.out) contém um teste relativo ao exercício 3.
+
 Deverá produzir, no mínimo 10 ficheiros de input e 10 ficheiros de output.
 
 ## Entrega
