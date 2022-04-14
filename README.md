@@ -4,7 +4,7 @@
 
 # Exercício 4 - O Enunciado
 
-Este exercício deverá ser submetido no Moodle 23:59 do dia 20/04/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
+Este exercício deverá ser submetido no Moodle 23:59 do dia 25/04/2022 e será contabilizado para a nota final da unidade curricular de acordo com os critérios disponibilizados na página da disciplina, concretamente nos slides da primeira aula.
 
 - O trabalho deve ser desenvolvido em grupos até 3 estudantes.
 
