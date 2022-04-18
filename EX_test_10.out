@@ -1,0 +1,22 @@
++-Simple Math -----------------------+
+|  + <a> <b> - compute a + b         |
+|  - <a> <b> - compute a - b         |
+|  * <a> <b> - compute a * b         |
+|  / <a> <b> - compute a / b         |
+|  % <a> <b> - compute a % b         |
++-Conversions -----------------------+
+|  h <x>     - x from dec to hex     |
+|  H <x>     - x from hex to dec     |
+|  o <x>     - x from dec to oct     |
+|  O <x>     - x from oct to dec     |
+|  c <x>     - x from hex to oct     |
+|  C <x>     - x from oct to hex     |
++-Advanced --------------------------+
+|  ! <n>     - factorial of n        |
+|  b <n>     - plays buzz up to n    |
++-Interface -------------------------+
+|  s         - print this menu       |
+|  q         - end program           |
++------------------------------------+
+1
+Bye
